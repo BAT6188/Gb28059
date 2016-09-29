@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>Google.GData.Client</id>
+    <version>2.2.0.0</version>
+    <title>Google.GData.Client</title>
+    <authors>Google, Inc.</authors>
+    <owners>Google, Inc.</owners>
+    <licenseUrl>http://www.apache.org/licenses/LICENSE-2.0</licenseUrl>
+    <projectUrl>http://code.google.com/p/google-gdata/</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Google Data API Client Library</description>
+    <summary>Google Data API Client Library</summary>
+    <dependencies>
+      <dependency id="Newtonsoft.Json" version="4.0.5" />
+    </dependencies>
+  </metadata>
+</package>

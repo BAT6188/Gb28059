@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>RIAServices.EF4</id>
+    <version>4.2.0</version>
+    <title>RIA Services for EntityFramework 4.0 (ObjectContext)</title>
+    <authors>Microsoft</authors>
+    <owners>Microsoft</owners>
+    <licenseUrl>http://go.microsoft.com/fwlink/?LinkId=223397</licenseUrl>
+    <projectUrl>http://silverlight.net/riaservices/</projectUrl>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <description>RIAServices.EF4 provides the LinqToEntitiesDomainService&lt;T&gt; class which can be used to create Domain Service classes for use with an ObjectContext from Entity Framework 4.0.
+
+This package can be used in place of a GAC reference to the System.ServiceModel.DomainServices.EntityFramework assembly, making bin-deployment easier.
+
+The dependency on RIAServices.Server provides the other assemblies that are needed for the server-side runtime of RIA Services.</description>
+    <summary>WCF RIA Services Toolkit - Entity Framework ObjectContext support with LinqToEntitiesDomainService</summary>
+    <language>en-US</language>
+    <tags>WCF RIA Services RIAServices EntityFramework</tags>
+    <dependencies>
+      <dependency id="RIAServices.Server" />
+    </dependencies>
+    <frameworkAssemblies>
+      <frameworkAssembly assemblyName="System.Data.Entity" targetFramework=".NETFramework4.0" />
+    </frameworkAssemblies>
+  </metadata>
+</package>

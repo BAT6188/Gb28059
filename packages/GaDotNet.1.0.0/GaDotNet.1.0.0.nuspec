@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>GaDotNet</id>
+    <version>1.0.0</version>
+    <title>Google Analytics server side calls</title>
+    <authors>Doug Rathbone</authors>
+    <owners>Doug Rathbone</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Used to call Analytics events and pageview</description>
+    <summary />
+    <releaseNotes>Used to call Analytics events and pageview.</releaseNotes>
+    <copyright>Copyright 2014</copyright>
+    <tags>Google Analytics SEO Server Side</tags>
+  </metadata>
+</package>

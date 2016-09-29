@@ -1,0 +1,16 @@
+<sipdomains>
+  <sipdomain>
+   <id>cc405d87-76d5-4397-bb45-27ce2f9673f7</id>
+   <domain></domain>
+   <owner></owner>
+   <aliaslist></aliaslist>
+   <inserted>2016-9-19 09:47:52</inserted>
+   <!--<sipdomainaliases>
+     <domainalias>10.1.1.5</domainalias>
+     <domainalias>10.1.1.5:5060</domainalias>
+     <domainalias>local</domainalias>
+     <domainalias>*</domainalias>
+   </sipdomainaliases>
+   -->
+  </sipdomain>
+</sipdomains>
